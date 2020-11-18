@@ -1,7 +1,6 @@
 <template>
     <div class="post-container">
-        <h3>Add New Blog Post</h3>
-        <p>Blog Title</p>
+        <p>Add Blog Title</p>
         <input class="blog-title" type="text" v-model="blog_title" />
         <br />
         <textarea type="text" v-model="blog_content" />
@@ -51,6 +50,11 @@ import axios from 'axios';
 textarea {
     width: 30vw;
     height: 10vh;
+}
+.post-container {
+    border: 1px solid black;
+    width: 75%;
+    margin-left: 12.5%;
 }
 .post-btn {
     border: 1px solid black;
