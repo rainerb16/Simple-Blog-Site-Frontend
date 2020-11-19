@@ -58,12 +58,13 @@ textarea {
 }
 .post-btn {
     border: 1px solid black;
-    width: 10%;
-    margin-left: 45%;
+    width: 5%;
+    margin-left: 47.5%;
     border-radius: 5%;
     margin-bottom: 5vh;
     margin-top: 3vh;
     cursor: pointer;
+    color: maroon;
 }
 .blog-title {
     margin-bottom: 2vh;
