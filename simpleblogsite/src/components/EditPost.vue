@@ -74,8 +74,8 @@ textarea {
 }
 .show-update-btn {
     border: 1px solid black;
-    width: 10%;
-    margin-left: 45%;
+    width: 15%;
+    margin-left: 42.5%;
     border-radius: 5%;
     cursor: pointer;
     color: maroon;

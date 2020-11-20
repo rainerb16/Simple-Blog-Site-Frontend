@@ -61,8 +61,8 @@ import DeletePost from "./DeletePost.vue";
 }
 .refresh-btn {
     border: 1px solid black;
-    width: 5%;
-    margin-left: 47.5%;
+    width: 10%;
+    margin-left: 45%;
     border-radius: 5%;
     margin-bottom: 5vh;
     margin-top: 3vh;
